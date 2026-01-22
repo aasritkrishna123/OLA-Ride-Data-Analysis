@@ -129,12 +129,6 @@ The data represents **real-world ride-hailing operations** and was processed usi
 
 ---
 
-## 📸 Dashboard Preview
-
-![OLA Ride Analytics Dashboard](dashboard_preview.png)
-
----
-
 ## ✅ Skills Demonstrated
 
 - SQL Query Optimization  
@@ -148,3 +142,8 @@ The data represents **real-world ride-hailing operations** and was processed usi
 ---
 
 
+## 📸 Dashboard Preview
+
+![OLA Ride Analytics Dashboard]()
+
+---
