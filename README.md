@@ -143,6 +143,6 @@ The data represents **real-world ride-hailing operations** and was processed usi
 
 ## 📸 Dashboard Preview
 
-![OLA Ride Analytics Dashboard](https://github.com/aasritkrishna123/Risk-Analysis-in-Banking-Sector/blob/main/photo-collage.png.png)
+![OLA Ride Analytics Dashboard](https://github.com/aasritkrishna123/OLA-Ride-Data-Analysis/blob/main/gandr-collage.jpg)
 
 ---
