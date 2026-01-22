@@ -29,8 +29,11 @@ The objective of this project is to **analyze historical OLA ride data** and del
 - Build an **interactive Power BI dashboard** for stakeholders
 
 ---
+## 🔗 Live Dashboard
 
-## 🧠 End-to-End Project Workflow
+👉 **[Live Dashboard](https://app.powerbi.com/groups/me/reports/bd7323d1-3d2a-4da8-9a9d-4fe7b84280cc/01010c872d87cde00e4a?experience=power-bi)**
+
+---
 
 ### 🔹 1. SQL – Data Extraction & Analysis
 - Filtering data using `WHERE` conditions  
