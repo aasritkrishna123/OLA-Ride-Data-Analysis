@@ -4,8 +4,6 @@ This project presents an **end-to-end OLA Ride Analytics solution** built using 
 
 The project demonstrates the **complete analytics lifecycle** — from **problem understanding and data extraction** to **analysis, visualization, and business decision support**.
 
-This project is highly relevant for **Data Analyst, BI Analyst, Product Analyst, and Operations Analytics roles**.
-
 ---
 
 ## 🔗 Live Dashboard
